@@ -1,4 +1,3 @@
-# Professional-Login-Page
 Professional Login Page
 
 A simple and responsive Login Page built using HTML, CSS.
@@ -15,3 +14,14 @@ Features:
 -Password show/hide toggle
 
 -Easy to customize and integrate into larger projects
+
+Technologies Used:
+
+-HTML
+
+-CSS 
+
+Screenshot:
+
+<img width="1225" height="901" alt="image" src="https://github.com/user-attachments/assets/a3d5daf7-c15c-4547-bfff-61e98378d537" />
+
